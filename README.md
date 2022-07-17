@@ -213,4 +213,3 @@ http://www.joshwright.com/tips/getting-an-iphone-udid-from-mobile-safari
 
 https://discussions.apple.com/thread/3089948?start=0&tstart=0
  
- 
